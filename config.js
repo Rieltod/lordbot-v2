@@ -21,7 +21,7 @@ global.Owner = {
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '6282146218274': {
-    name: 'Riel Botz',
+    name: 'Riel Gans',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Copyright Riel Botz'
-global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©Rielxzy '
+global.author = 'Riel Botz Best Bot\nBattry: false\nCopyright By ©Rielxzy '
 
 global.multiplier = 39 // The higher, The harder levelup
 
