@@ -40,7 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
+│ Github:https://github.com/Rieltod
 │ %github
 ╰─回
 %readmore`.trimStart(),
